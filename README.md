@@ -9,7 +9,7 @@
 	- Class will focus on pragmatics of computing.
 	- Plagiarism
 		- Searching for solutions online will probably be necessary at some point, but credit must be given.
-    - The same plagiarism rules apply to code as would apply to a written assignment
+    		- The same plagiarism rules apply to code as would apply to a written assignment
 
 - GitHub and Homework
 	- Repositories
