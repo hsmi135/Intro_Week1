@@ -49,6 +49,7 @@
 		- Names begin with `.`
 		- Usually used for configuration files
 
+- [Practical Computing Tips](https://github.com/IntroToCompBioLSU-Spr20/Intro_Week1/blob/master/ComputingTips.md)
 
 ```
 Assignment 1
