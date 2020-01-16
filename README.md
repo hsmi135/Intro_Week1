@@ -29,10 +29,11 @@
   - Mac
   - Linux
 
-__Assignment 1__
+```
+Assignment 1
 
 (1) Sign up for an account on GitHub and send your username to me
-
 (2) Apply for an LSU HPC account (https://accounts.hpc.lsu.edu/login_request.php)
 
 Complete by tomorrow (Friday, Jan. 17)
+```
