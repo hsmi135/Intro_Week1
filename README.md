@@ -29,6 +29,22 @@
   - Mac
   - Linux
 
+- The Unix root (/)
+	- The very base of the filesystem
+	
+- Absolute paths
+	- All absolute paths begin at the root- start with /
+	
+- Relative paths
+	- dont start with /
+	- Working directories
+	- Shortcuts for current and parent directories
+	
+- Hidden files and folders
+	- Names begin with `.`
+	- Usually used for configuration files
+
+
 ```
 Assignment 1
 
