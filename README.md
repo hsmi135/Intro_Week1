@@ -31,7 +31,7 @@
 
 - Some fundamentals
   - Memory (RAM)
-  - File store (hard drives)
+  - File storage (hard drives)
   - CPU
   - GPU
 
