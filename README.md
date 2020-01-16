@@ -1,2 +1,35 @@
 # Welcome to Introduction to Computing for Biologists
 
+- Introductions
+
+- Survey
+
+- Syllabus Overview and Questions
+	- Assignments due Fridays at _noon_ each week.
+	- Class will focus on pragmatics of computing.
+	- Plagiarism
+		- Searching for solutions online will probably be necessary at some point, but credit must be given.
+    - The same plagiarism rules apply to code as would apply to a written assignment
+
+- GitHub and Homework
+	- Repositories
+		- Collections of related files (often code)
+		- Formalizing as a repository allows Git to keep track of changes you make in these files through time
+    - All class notes and assignments
+    
+- Markdown and Outlines
+	- Can take notes directly in file - maybe use block quotes?
+    
+> This is a block quote.
+> This might be an easy way to add your own notes.<br>
+> To write notes on new lines, add two empty spaces or `<br>` at the end of a line.
+
+- Overview of Operating Systems
+  - Windows
+  - Mac
+  - Linux
+
+__Assignment 1__
+(1) Sign up for an account on GitHub and send your username to me
+(2) Apply for an LSU HPC account (https://accounts.hpc.lsu.edu/login_request.php)
+Complete by tomorrow (Friday, Jan. 17)
