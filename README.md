@@ -5,7 +5,7 @@
 - Survey
 
 - Syllabus Overview and Questions
-	- Assignments due Fridays at _noon_ each week.
+	- Assignments due Mondays at _noon_ each week.
 	- Class will focus on pragmatics of computing.
 	- Plagiarism
 		- Searching for solutions online will probably be necessary at some point, but credit must be given.
@@ -58,5 +58,5 @@ Assignment 1
 (2) Apply for an LSU HPC account (https://accounts.hpc.lsu.edu/login_request.php). When you do, 
     list me as your sponsor. Once your account is created, send me your username.
 
-Complete by tomorrow (Friday, Jan. 17)
+Complete by Monday, Jan. 19. You will need these to participate in the next class.
 ```
